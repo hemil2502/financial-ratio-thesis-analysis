@@ -1,0 +1,8 @@
+variable,label,non_missing_n,missing_n,coverage_percent,missing_percent
+profit_margin_win,Profit margin,77337,14280,84.41,15.59
+roa_win,Return on assets,77872,13745,85.0,15.0
+equity_ratio_calc_win,Equity ratio,90219,1398,98.47,1.53
+debt_ratio_win,Debt ratio,89426,2191,97.61,2.39
+cash_to_assets_win,Cash-to-assets,78359,13258,85.53,14.47
+receivables_to_assets_win,Receivables-to-assets,78529,13088,85.71,14.29
+asset_turnover_win,Asset turnover,91153,464,99.49,0.51
